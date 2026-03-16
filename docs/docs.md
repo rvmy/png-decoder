@@ -21,7 +21,7 @@ fn main() -> std::io::Result<()> {
     println!("Valid PNG signature: {:?}", signature);
     Ok(())
 }
-```
+
 
 
   2. **Chunk layout**
