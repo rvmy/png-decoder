@@ -4,4 +4,4 @@
 A simple PNG decoder implemented in Rust.
 
 ## So how to create your own
-docs/docs.md
+[docs](docs/DOCS.md)
